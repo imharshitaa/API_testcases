@@ -1,7 +1,7 @@
 # API_testcases
 
 
-# OWASP API Security Test Cases
+## OWASP API Security Test Cases
 
 This repository contains test cases, payloads, and PoC scripts for the **OWASP API Security Top 10**.  
 It is designed to provide reproducible security checks that demonstrate common API weaknesses.
